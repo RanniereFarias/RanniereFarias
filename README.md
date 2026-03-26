@@ -93,7 +93,6 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 - Total contributions this year: **Loading...**
 - Current streak: **Loading...**
 - Longest streak: **Loading...**
-- Active repositories: **Loading...**
 - Most active day of the week: **Loading...**
 - Average contributions per week: **Loading...**
 <!-- github-activity:end -->

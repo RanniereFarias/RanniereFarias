@@ -59,7 +59,6 @@ async function fetchData() {
 function calculateMetrics(data) {
   const calendar = data.contributionsCollection.contributionCalendar;
   const totalContributions = calendar.totalContributions;
-  const activeRepositories = data.repositories.totalCount;
   const days = calendar.weeks.flatMap((week) => week.contributionDays);
 
   let currentStreak = 0;
@@ -110,7 +109,6 @@ function calculateMetrics(data) {
     totalContributions,
     currentStreak,
     longestStreak,
-    activeRepositories,
     mostActiveDay,
     averagePerWeek,
   };
@@ -122,7 +120,6 @@ function buildActivityBlock(metrics) {
     `- Total contributions this year: **${metrics.totalContributions}**`,
     `- Current streak: **${metrics.currentStreak} days**`,
     `- Longest streak: **${metrics.longestStreak} days**`,
-    `- Active repositories: **${metrics.activeRepositories}**`,
     `- Most active day of the week: **${metrics.mostActiveDay}**`,
     `- Average contributions per week: **${metrics.averagePerWeek}**`,
     "<!-- github-activity:end -->",
