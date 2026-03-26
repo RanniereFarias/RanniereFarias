@@ -89,10 +89,6 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
   <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanniereFarias&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
-</p>
-
 ## 📈 Contribution Graph
 
 [![Ranniere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanniereFarias&theme=tokyo-night&hide_border=true)](https://github.com/RanniereFarias)
