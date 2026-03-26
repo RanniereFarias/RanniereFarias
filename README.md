@@ -15,7 +15,7 @@ Perfectionist by nature, always aiming for maintainability and visual excellence
 
 ## 🎯 What I do best
 
-- Complex dashboards (data-heavy, analytics-driven UI)
+- Complex dashboards & data visualization (analytics, real-time, data-heavy UI)
 - Scalable front-end architecture
 - UX refinement & accessibility (a11y)
 - Clean, maintainable, and performance-oriented code
@@ -50,7 +50,6 @@ Perfectionist by nature, always aiming for maintainability and visual excellence
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![AntV](https://img.shields.io/badge/AntV-722ED1?style=for-the-badge)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black)
 
 ### 🔄 State & Data
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -87,13 +86,17 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanniereFarias&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RanniereFarias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanniereFarias&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanniereFarias&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 </p>
+
+## 📈 Contribution Graph
+
+[![Ranniere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanniereFarias&theme=tokyo-night&hide_border=true)](https://github.com/RanniereFarias)
 
 ---
 
