@@ -86,7 +86,6 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanniereFarias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
   <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
