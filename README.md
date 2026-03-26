@@ -83,7 +83,7 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RanniereFarias&theme=tokyonight&hide_border=true" height="170" />
