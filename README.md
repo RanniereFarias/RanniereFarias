@@ -90,11 +90,11 @@ Worked on large-scale projects for global tech brands such as **LG, Acer, Samsun
 </p>
 
 <!-- github-activity:start -->
-- Total contributions this year: **1586**
+- Total contributions this year: **1560**
 - Current streak: **0 days**
 - Longest streak: **7 days**
 - Most active day of the week: **Friday**
-- Average contributions per week: **31**
+- Average contributions per week: **30**
 <!-- github-activity:end -->
 
 ## 📈 Contribution Graph
